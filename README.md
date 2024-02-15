@@ -28,6 +28,7 @@ open 'Example.R', set working directory accordingly, source
 dependencies:
 
 -ggplot2
+
 -data.table
 
 
